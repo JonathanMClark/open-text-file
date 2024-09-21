@@ -1,4 +1,4 @@
-# Python - A simple script
+# Python - Open Text File
 
 ## Python script to read and write to text files
 - Version 1.0.0 | Released 2024-09-21 | Jonathan M Clark | Initial draft
