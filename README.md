@@ -6,7 +6,6 @@
 
 > [!NOTE]
 > This repo and the files in it (and/or access to them) may be changed, removed, or altered in the future.
-> <br>[The Main Portfolio Project](https://jonathanmclark.com/workspace)
 
 
 
