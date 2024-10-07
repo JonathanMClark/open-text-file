@@ -19,7 +19,7 @@
 <br><br>
 ## --- File Structure ---
 > [!NOTE]
-> The ```open_text_file.py``` is the Python file that contains the Python script to interact with text files
+> The ```open_text_file.py``` file contains the Python script to interact with text files
 > <br>The ```input.txt``` file is read by the Python file
 > <br>The ```output.txt``` file is where the Python file writes the output
 
